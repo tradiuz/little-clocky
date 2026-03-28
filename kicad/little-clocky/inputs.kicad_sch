@@ -2985,54 +2985,6 @@
 			)
 		)
 	)
-	(global_label "TRIG1"
-		(shape output)
-		(at 154.94 49.53 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "329dc13d-7797-4840-9d9a-dd745c389573")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.2471 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "TRIG2"
-		(shape output)
-		(at 156.21 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "39c818a8-1f69-4021-80f4-61a2c679bdf1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.5171 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "ENCA"
 		(shape output)
 		(at 228.6 52.07 180)
@@ -3054,6 +3006,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "TRIG2"
+		(shape output)
+		(at 154.94 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3ed406f1-9e37-4e53-9774-68c5b9c2886a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 163.2471 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -3166,6 +3142,30 @@
 		(uuid "b86fb969-ec2e-4962-bb64-15cd104dce0b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 91.6433 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "TRIG1"
+		(shape output)
+		(at 156.21 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb62233e-c18a-4b58-9ee1-7464bf090dba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.5171 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
